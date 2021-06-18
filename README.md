@@ -1,6 +1,6 @@
 ### Hello Everyone!! 👋 I'm Thotsaphon "Ben" Ruthamnong
 
-[![Profile](https://visitor-badge.glitch.me/badge?page_id=blackinno.profileviews-badge)](https://github.com/blackinno) [![followers](https://img.shields.io/github/followers/blackinno?style=social)](https://github.com/blackinno?tab=followers) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/blackinno)[![Repos Badge](https://badges.pufler.dev/repos/blackinno)](https://github.com/blackinno?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thotsaphon-ben-ruthamnong-a5889b111/)
+[![Profile](https://visitor-badge.glitch.me/badge?page_id=blackinno.profileviews-badge)](https://github.com/blackinno) [![followers](https://img.shields.io/github/followers/blackinno?style=social)](https://github.com/blackinno?tab=followers) [![Repos Badge](https://badges.pufler.dev/repos/blackinno)](https://github.com/blackinno?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thotsaphon-ben-ruthamnong-a5889b111/)
 <br>
 
 Hello, I'm Thotsaphon "Ben" Ruthamnong, a full-stack developer from Thailand. I take great care in the experience, architecture, and code quality of the things I build.
