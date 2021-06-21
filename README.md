@@ -35,7 +35,7 @@ Hello, I'm Thotsaphon "Ben" Ruthamnong, a full-stack developer from Thailand. I 
 - 🔭 I’m currently working on e-commerce projects.
 - 🌱 I’m currently learning Golang.
 - 🎯 I'm focusing on better coding.
-
+- 😄 Pronouns: He/His
 ---
 
 ### STATS
