@@ -1,4 +1,4 @@
-### Hello Everyone!! 👋 I'm Thotsaphon "Ben" Ruthamnong
+### Hello Everyone!! 👋
 
 [![Profile](https://visitor-badge.glitch.me/badge?page_id=blackinno.profileviews-badge)](https://github.com/blackinno) [![followers](https://img.shields.io/github/followers/blackinno?style=social)](https://github.com/blackinno?tab=followers) [![Repos Badge](https://badges.pufler.dev/repos/blackinno)](https://github.com/blackinno?tab=repositories) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/thotsaphon-ben-ruthamnong-a5889b111/)
 <br>
