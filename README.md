@@ -41,8 +41,4 @@ Hello, I'm Thotsaphon "Ben" Ruthamnong, a full-stack developer from Thailand. I 
 
 ### STATS
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackinno&count_private=true&title_color=FD9047&icon_color=FD9047&theme=dark&custom_title=Blackinno's+GitHub+Stats&show_icons=true" />
-</p>
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blackinno&title_color=FD9047&icon_color=FD9047&theme=dark)
