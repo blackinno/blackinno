@@ -5,6 +5,11 @@
 
 Hello, I'm Thotsaphon "Ben" Ruthamnong, a full-stack developer from Thailand. I take great care in the experience, architecture, and code quality of the things I build.
 
+- 🔭 I’m currently working on e-commerce projects.
+- 🌱 I’m currently learning Go, Ruby and Blockchain.
+- 🎯 I'm focusing on better coding.
+- 😄 Pronouns: He/His
+
 ### What do I do?
 
 <p>
@@ -32,10 +37,6 @@ Hello, I'm Thotsaphon "Ben" Ruthamnong, a full-stack developer from Thailand. I 
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
 
-- 🔭 I’m currently working on e-commerce projects.
-- 🌱 I’m currently learning Go, Ruby and Blockchain.
-- 🎯 I'm focusing on better coding.
-- 😄 Pronouns: He/His
 ---
 
 ### STATS
